@@ -37,3 +37,7 @@ footer {
     Background-color:coral;
     margin:0;
 }
+
+footer > h1 {
+    margin:0;
+}
